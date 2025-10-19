@@ -1,4 +1,4 @@
-# Mentora.com
+
 # Mentora.com 🧠💼  
 **AI-Powered Interview Platform for Corporate Professionals**
 
